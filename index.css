@@ -99,9 +99,9 @@ p
 {
     border: 1px;
     margin: 1px 0px;
-    width: 100%;
+    width: auto;
 }
-#img1{
+#img1 {
     width: 100%;
 }
 }
