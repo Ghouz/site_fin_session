@@ -88,6 +88,18 @@ p
 {
     font-family:Georgia, 'Times New Roman', Times, serif
 }
+.img2{
+    width: 50px;
+}
+.img3{
+    width: 120px;
+}
+.img4{
+    width: 100px;
+}
+.img5{
+    width: 75px;
+}
 @media (max-width:1000px){
     .texte
 {
@@ -103,5 +115,17 @@ p
 }
 #img1 {
     width: 100%;
+}
+.img2{
+    width: 30px;
+}
+.img3{
+    width: 60px;
+}
+.img4{
+    width: 50px;
+}
+.img5{
+    width: 35px;
 }
 }
